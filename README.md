@@ -25,5 +25,12 @@ Thank you for giving me the opportunity to interview with Embodied.me, I had fun
     {{Condition, Delegate},....}
     This is the best alternative that I could think for, if and switch case alternative.
     ```
- * For naming the variables, to make it more understandable I used full names to make it more understandable and for some method calls that have long argument list, it is bit difficult to read as we need to scroll side ways, so one way to avoid this is to encapsulate the argument list
+ * For naming the variables, to make it more understandable I used full names to make it more understandable and for some method calls that have long argument list, it is bit difficult to read as we need to scroll side ways, so one way to avoid this is to encapsulate the argument list and call the method with one argument. I was not sure if this is the best way to go, so I have not implemented this in the above code.
+ * For TO-DO part of the assignment, Blend 2, Blend 3, Blend 23 ease-in and ease-out can be achieved by cubic Bezier Curve function. So for now I used extern functions to keep the implementation simple.
+ 
+ ### Please take a look at two of my recent project, implemented using Java and C++. I am sure this projects will give you better understanding of my programming skills.
+ * [Pomodoro Timer](https://github.com/uday721/PomodoroTimer.git), an android app.
+ * [Relationship Compatibility](https://github.com/uday721/RelationshipCompatability.git), the project is used to find the relationship compatibility of two people based on their expenses.
+ 
+ ###### Please review the above submitted code and looking forward to assignment feedback.
     
