@@ -1,0 +1,6 @@
+C:\Users\Uday Shanker\Desktop\Work Space\EmbodiedAssignment\EmbodiedAssignment\bin\Debug\EmbodiedAssignment.exe.config
+C:\Users\Uday Shanker\Desktop\Work Space\EmbodiedAssignment\EmbodiedAssignment\bin\Debug\EmbodiedAssignment.exe
+C:\Users\Uday Shanker\Desktop\Work Space\EmbodiedAssignment\EmbodiedAssignment\bin\Debug\EmbodiedAssignment.pdb
+C:\Users\Uday Shanker\Desktop\Work Space\EmbodiedAssignment\EmbodiedAssignment\obj\Debug\EmbodiedAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Uday Shanker\Desktop\Work Space\EmbodiedAssignment\EmbodiedAssignment\obj\Debug\EmbodiedAssignment.exe
+C:\Users\Uday Shanker\Desktop\Work Space\EmbodiedAssignment\EmbodiedAssignment\obj\Debug\EmbodiedAssignment.pdb

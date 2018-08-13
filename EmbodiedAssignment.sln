@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbodiedAssignment", "EmbodiedAssignment\EmbodiedAssignment.csproj", "{8B584CD2-7A09-499D-AB32-A6311461756E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B584CD2-7A09-499D-AB32-A6311461756E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B584CD2-7A09-499D-AB32-A6311461756E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B584CD2-7A09-499D-AB32-A6311461756E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B584CD2-7A09-499D-AB32-A6311461756E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F2EE39-E6ED-4F0E-AC11-054D8F52B65C}
+	EndGlobalSection
+EndGlobal
